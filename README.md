@@ -7,6 +7,7 @@
 ## Description
 
 VueMapLocationWebApp is a web application developed completely by myself (Chao Xu) for the Accuenergy Canada Inc. Web Developer position pre-interview task. It showcases my skills in Vue.js, Google Maps integration, and UI design.
+
 Please note that I have included my Google Maps API key in the code to facilitate testing and review.
 
 ## Features
