@@ -1,7 +1,7 @@
 # Vue-Map-Location-Web-App
 
 **Author:** Chao Xu
-**Date of Completion:** [Date]
+**Date of Completion:** Oct 22, 2023
 
 ## Description
 
